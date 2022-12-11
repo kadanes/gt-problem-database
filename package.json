@@ -20,7 +20,7 @@
     "url": "https://github.com/parthv21/gt-problem-database/issues"
   },
   "dependencies": {
-    "express": "4.17.1",
+    "express": "4.17.3",
     "tabletop": "1.6.2"
   },
   "homepage": "https://github.com/parthv21/gt-problem-database#readme"
